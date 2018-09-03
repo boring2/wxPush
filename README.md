@@ -1,3 +1,8 @@
+
+
+## 本项目的微信小程序客服接入时的一个小demo,官方文档写的太简洁了,没有示例代码.要自己撸一遍.
+
+## 下面是leancloud的官方readme
 # Node.js Getting started
 在 LeanCloud 云引擎上使用 Express 的 Node.js 实例项目。
 
